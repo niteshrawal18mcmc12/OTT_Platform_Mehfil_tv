@@ -48,4 +48,4 @@ https://github.com/niteshrawal18mcmc12/OTT_Platform_Mehfil_tv
  User Detail
  
   <img src="Screenshots/User-detail.jpg">
- ![User-detail](https://user-images.githubusercontent.com/17005167/102337166-24458400-3fb8-11eb-8656-a7a1a64487a4.png)
+
